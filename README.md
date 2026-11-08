@@ -30,7 +30,7 @@ Why I'm Building Orbit
 
 I've been a gamer since I was a kid.
 
-Over the years, I've owned or played just about every gaming system you can imagine. I've also built up a pretty extensive collection of games, including backups I've been keeping for nearly two decades.
+Over the years, I've owned or played just about every gaming systems you can imagine having in the US. I've also built up a pretty extensive collection of games, including backups I've been keeping for nearly two decades.
 
 These days, I'm a middle-aged industrial worker with a wife, a family, a full-time job, and probably more projects than I have time for.
 
