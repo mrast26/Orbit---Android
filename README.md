@@ -1,6 +1,5 @@
 # Orbit---Android
 <img width="1254" height="1254" alt="file_000000002420821299fb74336a30c28d" src="https://github.com/user-attachments/assets/c8a6099b-fd1a-436d-9dcc-000b5551f14a" />
-Your Android. Your Games. Your Console.
 
 Orbit is a free, controller-first gaming frontend for Android, designed to bring your games together in one place and make the experience feel like a dedicated gaming console.
 
