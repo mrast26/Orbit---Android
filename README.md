@@ -1,7 +1,6 @@
 # Orbit---Android
 <img width="1254" height="1254" alt="file_000000002420821299fb74336a30c28d" src="https://github.com/user-attachments/assets/c8a6099b-fd1a-436d-9dcc-000b5551f14a" />
-
-A free, controller-first Android gaming frontend that brings your games together in one place with a console-like experience. Your Android. Your Games. Your Console.
+Your Android. Your Games. Your Console.
 
 Orbit is a free, controller-first gaming frontend for Android, designed to bring your games together in one place and make the experience feel like a dedicated gaming console.
 
@@ -123,7 +122,11 @@ The hardware is currently housed in a 3D-printed, Raspberry Pi-sized case inspir
 
 I've already experimented with repurposing smartphone hardware, so I know the basic idea can work.
 
-Eventually, I'd also like to explore a custom Android operating system based on AOSP, tailored specifically to the hardware.
+While Orbit is currently being developed to run on standard Android installations, the long-term goal is to build it around a custom Android operating system specifically tailored to the hardware project.
+
+The plan is to develop a custom AOSP-based GSI that makes better use of the hardware and provides a more integrated console experience. Eventually, I'd like Orbit to feel less like an application running on a phone and more like the operating interface of a dedicated gaming system.
+
+That doesn't mean abandoning standard Android support. I still want people to be able to install and enjoy Orbit on their own compatible devices. The custom OS would simply be the version built specifically for my hardware.
 
 There's still a lot to figure out, but that's part of the fun.
 
@@ -141,7 +144,7 @@ The interface is designed primarily for 1920×1080 television displays, and I'm 
 
 Some features are unfinished, and there will undoubtedly be bugs along the way.
 
-Check the "Releases" (../../releases) section for available builds, supported functionality, and known limitations.
+Check the Releases section for available builds, supported functionality, and known limitations.
 
 ---
 
@@ -192,3 +195,5 @@ I'm just a guy who grew up playing games, still loves them, and decided to try b
 If other people enjoy it too, that makes the whole thing even better.
 
 And seriously, keep an eye out for the hardware project.
+
+ 
